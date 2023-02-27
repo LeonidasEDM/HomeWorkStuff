@@ -1,0 +1,8 @@
+# ninja log v5
+0	98	6991880537106967	build.ninja	1df190febfe40d00
+2	198	6991877284945610	CMakeFiles/untitled.dir/DynamicQueuesTest.cpp.obj	12b3f7bad381c604
+199	254	6991877285469597	untitled.exe	c95b637e1a2221f2
+2	161	6991875268278508	CMakeFiles/untitled.dir/DynamicQueue.cpp.obj	61e623e9597f168b
+5	167	6991880569134634	CMakeFiles/untitled.dir/DynamicQueuesTest.cpp.obj	1142eb059798ebc7
+2	168	6991880569139682	CMakeFiles/untitled.dir/DynamicQueue.cpp.obj	ce4264a20579003d
+168	235	6991880569779096	untitled.exe	c95b637e1a2221f2
